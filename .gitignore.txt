@@ -1,0 +1,10 @@
+client/.git
+client/.netlify
+client/build
+client/node_modules
+client/.gitignore
+
+server/.git
+server/node_modules
+server/.gitignore
+server/Procfile
